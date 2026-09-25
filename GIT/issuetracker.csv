@@ -2,5 +2,5 @@ ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
 1,Task,d4b3892,closed,Task A,Eduardo Farfan,Eduardo Farfan,9/27/2026,9/18/2026,9/18/2026,
 2,Task,c7efa95,closed,Task B,Eduardo Farfan,Eduardo Farfan,9/27/2026,9/19/2026,9/19/2026,
 3,Task,ae0e96b,closed,Task C,Eduardo Farfan,Eduardo Farfan,9/27/2026,9/25/2026,9/25/2026,
-4,Issue,,open,Giovanni collaborator invite pending,Eduardo Farfan,Giovanni Small,9/27/2026,9/25/2026,,Giovanni was invited to the repository but has not accepted the GitHub collaborator invitation yet.
+4,Issue,,closed,Giovanni collaborator invite pending,Eduardo Farfan,Giovanni Small,9/27/2026,9/25/2026,,Giovanni was invited to the repository but has not accepted the GitHub collaborator invitation yet.
 5,Issue,,open,Waiting for Diego GitHub username,Eduardo Farfan,Diego Pilachanga,9/27/2026,9/25/2026,,Contacted Diego by email asking for his GitHub username so he can be added to the repository.
